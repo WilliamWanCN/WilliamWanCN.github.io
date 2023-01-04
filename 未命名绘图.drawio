@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-04T09:42:20.210Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" etag="3WpYUj0vyL-v8MjLhBmD" version="20.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-04T09:55:29.757Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" etag="B0IVnt2-uDKq_UmqLmpo" version="20.8.0" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="2260" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -578,6 +578,19 @@
         </mxCell>
         <mxCell id="WpH-n_H7_tl8rJQND1Bv-198" value="用户是否已删除？" style="rhombus;whiteSpace=wrap;html=1;fillColor=#E6FFCC;rounded=1;fontStyle=1;strokeWidth=3;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="290" y="1644.01" width="120" height="105.99" as="geometry" />
+        </mxCell>
+        <mxCell id="WpH-n_H7_tl8rJQND1Bv-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="1" source="WpH-n_H7_tl8rJQND1Bv-201" target="WpH-n_H7_tl8rJQND1Bv-204">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="1830" />
+              <mxPoint x="470" y="1595" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WpH-n_H7_tl8rJQND1Bv-206" value="&lt;b&gt;True&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="WpH-n_H7_tl8rJQND1Bv-205">
+          <mxGeometry x="-0.6923" relative="1" as="geometry">
+            <mxPoint x="-12" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="WpH-n_H7_tl8rJQND1Bv-201" value="校验密码" style="rhombus;whiteSpace=wrap;html=1;fillColor=#E6FFCC;rounded=1;fontStyle=1;strokeWidth=3;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="310" y="1789.995" width="80" height="80" as="geometry" />
