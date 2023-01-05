@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-05T03:16:04.469Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" etag="-1TSKF3QtuEAec1LMtwz" version="20.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-05T03:22:55.280Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" etag="QyvWJ7YrLkszTL9BSj_e" version="20.8.0" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="2260" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -917,10 +917,13 @@
         <mxCell id="WpH-n_H7_tl8rJQND1Bv-406" value="&lt;b&gt;执行模板视图类&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=3;fontSize=11;" vertex="1" parent="WpH-n_H7_tl8rJQND1Bv-405">
           <mxGeometry y="29" width="142.62" height="25" as="geometry" />
         </mxCell>
+        <mxCell id="WpH-n_H7_tl8rJQND1Bv-435" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.006;entryY=0.059;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=13;fontColor=#000000;" edge="1" parent="1" source="WpH-n_H7_tl8rJQND1Bv-407" target="WpH-n_H7_tl8rJQND1Bv-431">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WpH-n_H7_tl8rJQND1Bv-407" value="TaskView" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;strokeColor=#000000;strokeWidth=3;fontSize=11;fillColor=#FFB570;swimlaneFillColor=#FFB570;" vertex="1" parent="1">
           <mxGeometry x="479" y="4417" width="145" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="WpH-n_H7_tl8rJQND1Bv-408" value="&lt;b&gt;执行历史视图类&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=3;fontSize=11;" vertex="1" parent="WpH-n_H7_tl8rJQND1Bv-407">
+        <mxCell id="WpH-n_H7_tl8rJQND1Bv-408" value="&lt;b&gt;任务视图类&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=3;fontSize=11;" vertex="1" parent="WpH-n_H7_tl8rJQND1Bv-407">
           <mxGeometry y="29" width="145" height="25" as="geometry" />
         </mxCell>
         <mxCell id="WpH-n_H7_tl8rJQND1Bv-409" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;TransferView&lt;/span&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;strokeColor=#000000;strokeWidth=3;fontSize=11;fillColor=#FFB570;swimlaneFillColor=#FFB570;" vertex="1" parent="1">
@@ -980,6 +983,18 @@
         </mxCell>
         <mxCell id="WpH-n_H7_tl8rJQND1Bv-425" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;delete&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;删除模板&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="853" y="4466" width="80" height="51.25" as="geometry" />
+        </mxCell>
+        <mxCell id="WpH-n_H7_tl8rJQND1Bv-431" value="&lt;span style=&quot;font-weight: 700; text-align: center;&quot;&gt;TaskView&lt;/span&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=79;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;strokeColor=#000000;strokeWidth=3;fontSize=11;fillColor=#FFB570;swimlaneFillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="811" y="4590" width="162" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="WpH-n_H7_tl8rJQND1Bv-432" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;get&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;查看执行历史&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="828" y="4635" width="127" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="WpH-n_H7_tl8rJQND1Bv-433" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;post&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;提交任务&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="843" y="4704" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WpH-n_H7_tl8rJQND1Bv-434" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;patch&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;存储执行状态&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="845" y="4776" width="97" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
