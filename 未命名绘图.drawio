@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T11:52:03.382Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.50" etag="3BXgCSWL8pblnsxnJOL3" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-23T13:14:24.183Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.50" etag="qDoyIBmpm3TfvUuKUAbs" version="20.8.23" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="2260" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -480,6 +480,72 @@
         </mxCell>
         <mxCell id="wt_XO7KDH_ERBLdJ_aBB-155" value="check" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
           <mxGeometry x="-12.75" y="8877.5" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wt_XO7KDH_ERBLdJ_aBB-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.037;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=6;" edge="1" parent="1" source="wt_XO7KDH_ERBLdJ_aBB-159" target="wt_XO7KDH_ERBLdJ_aBB-161">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wt_XO7KDH_ERBLdJ_aBB-159" value="system" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="9520" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wt_XO7KDH_ERBLdJ_aBB-160" value="tasks.main_check" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="9555" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wt_XO7KDH_ERBLdJ_aBB-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.012;entryY=0.567;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=6;" edge="1" parent="1" source="wt_XO7KDH_ERBLdJ_aBB-161" target="wt_XO7KDH_ERBLdJ_aBB-164">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wt_XO7KDH_ERBLdJ_aBB-161" value="check" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="-144" y="9510" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wt_XO7KDH_ERBLdJ_aBB-162" value="maincheck.py" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="9545" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wt_XO7KDH_ERBLdJ_aBB-163" value="check" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="193.5" y="9510" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wt_XO7KDH_ERBLdJ_aBB-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=6;" edge="1" parent="1" source="wt_XO7KDH_ERBLdJ_aBB-164" target="wt_XO7KDH_ERBLdJ_aBB-167">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wt_XO7KDH_ERBLdJ_aBB-164" value="check_mysql.check_mysql" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="189" y="9545" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wt_XO7KDH_ERBLdJ_aBB-167" value="MySQL存放业务数据" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Database_for_MySQL_servers.svg;" vertex="1" parent="1">
+          <mxGeometry x="189" y="10060" width="38" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wt_XO7KDH_ERBLdJ_aBB-169" value="check" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="9730" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wt_XO7KDH_ERBLdJ_aBB-170" value="&lt;div style=&quot;background-color:#2b2b2b;color:#a9b7c6;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:13.5pt;&quot;&gt;&lt;pre&gt;&lt;br&gt;&lt;/pre&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="9755" width="20" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wt_XO7KDH_ERBLdJ_aBB-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=6;" edge="1" parent="1" source="wt_XO7KDH_ERBLdJ_aBB-171" target="wt_XO7KDH_ERBLdJ_aBB-167">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wt_XO7KDH_ERBLdJ_aBB-171" value="mysql_logparser.get_mysql_alert" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="-276" y="9768" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wt_XO7KDH_ERBLdJ_aBB-173" value="check" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="-271" y="9880" width="251" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wt_XO7KDH_ERBLdJ_aBB-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.974;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=6;" edge="1" parent="1" source="wt_XO7KDH_ERBLdJ_aBB-174" target="wt_XO7KDH_ERBLdJ_aBB-167">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wt_XO7KDH_ERBLdJ_aBB-174" value="mysql_slowqueryparse.get_mysql_slowquery" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="-275" y="9915" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wt_XO7KDH_ERBLdJ_aBB-176" value="mysql.views" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fontSize=6;width=85;height=30;" vertex="1" parent="1">
+          <mxGeometry x="35" y="10260" width="455" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="wt_XO7KDH_ERBLdJ_aBB-177" value="api/mysql-stat-list" style="html=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="79" y="10310" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wt_XO7KDH_ERBLdJ_aBB-178" value="api/mysql-stat" style="html=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="271" y="10310" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wt_XO7KDH_ERBLdJ_aBB-179" value="api/mysql-stat-his" style="html=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="79" y="10410" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wt_XO7KDH_ERBLdJ_aBB-180" value="api/mysql-slowquery" style="html=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="276" y="10410" width="114" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
