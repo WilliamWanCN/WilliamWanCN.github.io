@@ -1,9 +1,126 @@
-<mxfile host="app.diagrams.net" modified="2023-06-07T07:22:19.870Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" version="21.3.7" etag="rS5wwyJlq-cSBkNJQR7z" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-07T08:43:13.452Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="8p3UH4iQnpfPI6Z5t4ap" version="21.3.7" type="github">
   <diagram name="第 1 页" id="5nfiAcH3a8hfUNFr2KXr">
-    <mxGraphModel>
+    <mxGraphModel dx="1905" dy="939" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="826" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="buEf3MoVesZdlT2kTQ1f-24" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="950" width="260" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="buEf3MoVesZdlT2kTQ1f-23" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="206" y="772" width="464" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="buEf3MoVesZdlT2kTQ1f-22" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="161" y="591" width="547" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="buEf3MoVesZdlT2kTQ1f-21" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="409" width="577.5" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="buEf3MoVesZdlT2kTQ1f-20" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="159" width="485" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="buEf3MoVesZdlT2kTQ1f-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="buEf3MoVesZdlT2kTQ1f-1" target="buEf3MoVesZdlT2kTQ1f-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="buEf3MoVesZdlT2kTQ1f-1" value="绪论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="88" width="74" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="buEf3MoVesZdlT2kTQ1f-2" value="研究内容和方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="519" y="174" width="95" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="buEf3MoVesZdlT2kTQ1f-3" value="国内外研究现状" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="388" y="174" width="96" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="buEf3MoVesZdlT2kTQ1f-4" value="研究背景和意义" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="248" y="174" width="99" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="buEf3MoVesZdlT2kTQ1f-5" value="相关概念和理论介绍" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="376" y="266" width="119" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="buEf3MoVesZdlT2kTQ1f-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="buEf3MoVesZdlT2kTQ1f-6" target="buEf3MoVesZdlT2kTQ1f-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="buEf3MoVesZdlT2kTQ1f-6" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;K公司IT运维管理的现状和问题&lt;font style=&quot;&quot;&gt;研究&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="336" y="341" width="206" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="buEf3MoVesZdlT2kTQ1f-7" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;K公司IT运维管理现状&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="171" y="426" width="130" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="buEf3MoVesZdlT2kTQ1f-8" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;K公司IT运维管理问题调研&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="326" y="426" width="148" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="buEf3MoVesZdlT2kTQ1f-9" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;K公司IT运维管理问题总结及原因分析&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="499" y="426" width="210" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="buEf3MoVesZdlT2kTQ1f-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="buEf3MoVesZdlT2kTQ1f-10" target="buEf3MoVesZdlT2kTQ1f-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="buEf3MoVesZdlT2kTQ1f-10" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;K公司IT运维管理改进方案&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="362" y="518" width="148" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="buEf3MoVesZdlT2kTQ1f-11" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;K公司IT运维管理改进目标&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="188" y="608" width="150" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="buEf3MoVesZdlT2kTQ1f-12" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;K公司IT运维管理改进思路&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="361" y="608" width="151" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="buEf3MoVesZdlT2kTQ1f-13" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;K公司IT运维管理改进方案&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="534" y="608" width="148" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="buEf3MoVesZdlT2kTQ1f-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="buEf3MoVesZdlT2kTQ1f-14" target="buEf3MoVesZdlT2kTQ1f-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="buEf3MoVesZdlT2kTQ1f-14" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;K公司IT运维管理改进实施效果&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="348" y="701" width="180" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="buEf3MoVesZdlT2kTQ1f-15" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;K公司IT运维管理改进情况概述&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="237" y="790" width="180" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="buEf3MoVesZdlT2kTQ1f-16" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;K公司IT运维管理改进效果&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="463" y="790" width="174" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="buEf3MoVesZdlT2kTQ1f-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="buEf3MoVesZdlT2kTQ1f-17" target="buEf3MoVesZdlT2kTQ1f-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="buEf3MoVesZdlT2kTQ1f-17" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;研究结论与展望&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385.13" y="881" width="99.87" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="buEf3MoVesZdlT2kTQ1f-18" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;研究结论&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="331" y="967" width="79" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="buEf3MoVesZdlT2kTQ1f-19" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;不足与展望&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="456" y="967" width="84" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="buEf3MoVesZdlT2kTQ1f-25" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="437" y="308" as="sourcePoint" />
+            <mxPoint x="437" y="337" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="buEf3MoVesZdlT2kTQ1f-28" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="436" y="234" as="sourcePoint" />
+            <mxPoint x="436" y="263" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="buEf3MoVesZdlT2kTQ1f-30" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="486" as="sourcePoint" />
+            <mxPoint x="440" y="515" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="buEf3MoVesZdlT2kTQ1f-31" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="439.25" y="668" as="sourcePoint" />
+            <mxPoint x="439.25" y="697" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="buEf3MoVesZdlT2kTQ1f-35" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="437.25" y="848" as="sourcePoint" />
+            <mxPoint x="437.25" y="877" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
