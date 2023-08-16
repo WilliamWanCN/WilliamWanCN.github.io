@@ -1,9 +1,137 @@
-<mxfile host="app.diagrams.net" modified="2023-08-16T11:12:59.611Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" version="21.6.8" etag="PTmvfhHcC1xl2-v594sC" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-16T11:53:54.416Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="EC7iAg4neO3TVS8YEq1x" version="21.6.8" type="github">
   <diagram name="第 1 页" id="rQygxwfp5Qc3jq_GvNuz">
-    <mxGraphModel>
+    <mxGraphModel dx="1379" dy="764" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="IQU15-5FGMefRxDrfGsM-23" value="事件管理流程" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
+          <mxGeometry x="231.00000000000045" y="150" width="636" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="IQU15-5FGMefRxDrfGsM-24" value="外部流程" style="swimlane;startSize=20;html=1;" vertex="1" parent="IQU15-5FGMefRxDrfGsM-23">
+          <mxGeometry y="20" width="120" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="IQU15-5FGMefRxDrfGsM-55" value="配置管理" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="IQU15-5FGMefRxDrfGsM-24">
+          <mxGeometry x="27.75" y="280" width="66.25" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="IQU15-5FGMefRxDrfGsM-59" value="重大事件管理" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="IQU15-5FGMefRxDrfGsM-24">
+          <mxGeometry x="16.25" y="90" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IQU15-5FGMefRxDrfGsM-61" value="监控系统" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="IQU15-5FGMefRxDrfGsM-24">
+          <mxGeometry x="30" y="40" width="64" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IQU15-5FGMefRxDrfGsM-25" value="二线支持" style="swimlane;startSize=20;html=1;" vertex="1" parent="IQU15-5FGMefRxDrfGsM-23">
+          <mxGeometry x="120" y="20" width="120" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="IQU15-5FGMefRxDrfGsM-44" value="2.分析原因" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="IQU15-5FGMefRxDrfGsM-25">
+          <mxGeometry x="21" y="165" width="72.5" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="IQU15-5FGMefRxDrfGsM-63" value="事件上报" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="IQU15-5FGMefRxDrfGsM-25">
+          <mxGeometry x="23.499999999999545" y="40" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IQU15-5FGMefRxDrfGsM-26" value="服务台" style="swimlane;startSize=20;html=1;" vertex="1" parent="IQU15-5FGMefRxDrfGsM-23">
+          <mxGeometry x="240" y="20" width="156" height="400" as="geometry">
+            <mxRectangle x="240" y="20" width="40" height="460" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQU15-5FGMefRxDrfGsM-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="IQU15-5FGMefRxDrfGsM-26" source="IQU15-5FGMefRxDrfGsM-31" target="IQU15-5FGMefRxDrfGsM-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IQU15-5FGMefRxDrfGsM-31" value="1.创建事件" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="IQU15-5FGMefRxDrfGsM-26">
+          <mxGeometry x="28" y="90" width="73" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IQU15-5FGMefRxDrfGsM-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="IQU15-5FGMefRxDrfGsM-26" source="IQU15-5FGMefRxDrfGsM-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQU15-5FGMefRxDrfGsM-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="IQU15-5FGMefRxDrfGsM-26" source="IQU15-5FGMefRxDrfGsM-39" target="IQU15-5FGMefRxDrfGsM-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IQU15-5FGMefRxDrfGsM-43" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IQU15-5FGMefRxDrfGsM-42">
+          <mxGeometry x="-0.0248" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQU15-5FGMefRxDrfGsM-39" value="可以解决？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="IQU15-5FGMefRxDrfGsM-26">
+          <mxGeometry x="22" y="157" width="86" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="IQU15-5FGMefRxDrfGsM-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="IQU15-5FGMefRxDrfGsM-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-0.5000000000004547" y="289" as="sourcePoint" />
+            <mxPoint x="48" y="346" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1" y="346" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQU15-5FGMefRxDrfGsM-41" value="3.解决" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="IQU15-5FGMefRxDrfGsM-26">
+          <mxGeometry x="-26" y="260" width="51" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="IQU15-5FGMefRxDrfGsM-48" value="4.关闭事件" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="IQU15-5FGMefRxDrfGsM-26">
+          <mxGeometry x="48" y="329" width="64.87" height="35.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IQU15-5FGMefRxDrfGsM-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="IQU15-5FGMefRxDrfGsM-23" source="IQU15-5FGMefRxDrfGsM-30" target="IQU15-5FGMefRxDrfGsM-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="404.99999999999955" y="75" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="417" y="125" />
+              <mxPoint x="417" y="125" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQU15-5FGMefRxDrfGsM-28" value="用户" style="swimlane;startSize=20;html=1;" vertex="1" parent="IQU15-5FGMefRxDrfGsM-23">
+          <mxGeometry x="396" y="20" width="120" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="IQU15-5FGMefRxDrfGsM-30" value="事件上报" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="IQU15-5FGMefRxDrfGsM-28">
+          <mxGeometry x="26" y="90" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IQU15-5FGMefRxDrfGsM-27" value="外部流程" style="swimlane;startSize=20;html=1;" vertex="1" parent="IQU15-5FGMefRxDrfGsM-23">
+          <mxGeometry x="516" y="20" width="120" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="IQU15-5FGMefRxDrfGsM-50" value="问题管理" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="IQU15-5FGMefRxDrfGsM-27">
+          <mxGeometry x="30.12000000000046" y="329" width="59.75" height="35.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IQU15-5FGMefRxDrfGsM-66" value="变更管理" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="IQU15-5FGMefRxDrfGsM-27">
+          <mxGeometry x="30.5" y="260" width="61.5" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="IQU15-5FGMefRxDrfGsM-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="IQU15-5FGMefRxDrfGsM-23" source="IQU15-5FGMefRxDrfGsM-39" target="IQU15-5FGMefRxDrfGsM-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IQU15-5FGMefRxDrfGsM-46" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IQU15-5FGMefRxDrfGsM-45">
+          <mxGeometry x="-0.6667" y="1" relative="1" as="geometry">
+            <mxPoint x="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQU15-5FGMefRxDrfGsM-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="IQU15-5FGMefRxDrfGsM-23" source="IQU15-5FGMefRxDrfGsM-44" target="IQU15-5FGMefRxDrfGsM-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="181" y="296" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQU15-5FGMefRxDrfGsM-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="IQU15-5FGMefRxDrfGsM-23" source="IQU15-5FGMefRxDrfGsM-48" target="IQU15-5FGMefRxDrfGsM-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IQU15-5FGMefRxDrfGsM-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="IQU15-5FGMefRxDrfGsM-23" target="IQU15-5FGMefRxDrfGsM-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="59.999999999999545" y="300" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="60" y="207" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQU15-5FGMefRxDrfGsM-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="IQU15-5FGMefRxDrfGsM-23" source="IQU15-5FGMefRxDrfGsM-31" target="IQU15-5FGMefRxDrfGsM-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IQU15-5FGMefRxDrfGsM-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="IQU15-5FGMefRxDrfGsM-23" source="IQU15-5FGMefRxDrfGsM-61" target="IQU15-5FGMefRxDrfGsM-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IQU15-5FGMefRxDrfGsM-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="IQU15-5FGMefRxDrfGsM-23" source="IQU15-5FGMefRxDrfGsM-63" target="IQU15-5FGMefRxDrfGsM-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IQU15-5FGMefRxDrfGsM-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="IQU15-5FGMefRxDrfGsM-23" source="IQU15-5FGMefRxDrfGsM-41" target="IQU15-5FGMefRxDrfGsM-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
