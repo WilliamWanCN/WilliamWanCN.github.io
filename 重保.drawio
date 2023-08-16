@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2023-08-16T14:40:09.777Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" version="21.6.8" etag="Z15OjiGY-GBRhpePq605" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-16T14:41:17.474Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="lQWG46tmix7Su7M8mHIV" version="21.6.8" type="github">
   <diagram name="第 1 页" id="BFa8TH5ItO02IadE21Wm">
-    <mxGraphModel>
+    <mxGraphModel dx="971" dy="605" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="cXwWaO3oJ8aVy1YwnYPj-1" value="重大事件处理流程" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
+          <mxGeometry x="233.00000000000045" y="74" width="360" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="cXwWaO3oJ8aVy1YwnYPj-2" value="重保前" style="swimlane;startSize=20;html=1;" vertex="1" parent="cXwWaO3oJ8aVy1YwnYPj-1">
+          <mxGeometry y="20" width="120" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="cXwWaO3oJ8aVy1YwnYPj-3" value="重保中" style="swimlane;startSize=20;html=1;" vertex="1" parent="cXwWaO3oJ8aVy1YwnYPj-1">
+          <mxGeometry x="120" y="20" width="120" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="cXwWaO3oJ8aVy1YwnYPj-4" value="重保后" style="swimlane;startSize=20;html=1;" vertex="1" parent="cXwWaO3oJ8aVy1YwnYPj-1">
+          <mxGeometry x="240" y="20" width="120" height="460" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
