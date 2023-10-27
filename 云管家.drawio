@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-27T10:57:35.850Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.61" etag="y0Sd_XTqaB8rhF4TP65N" version="22.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-27T10:58:42.060Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.61" etag="8IqEsKUTdOlQyoiAV8k3" version="22.0.7" type="github">
   <diagram name="第 1 页" id="4sbCekVPFbxFVqMmVLAk">
     <mxGraphModel dx="2213" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -224,10 +224,13 @@
           <mxGeometry x="71" y="1950" width="99" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8ymE1CZEhluJDggRTUyg-115" value="云管家主机" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="367" y="1950" width="163" height="110" as="geometry" />
+          <mxGeometry x="373.5" y="1950" width="163" height="110" as="geometry" />
         </mxCell>
         <mxCell id="8ymE1CZEhluJDggRTUyg-116" value="Nginx" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="390" y="1990" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ymE1CZEhluJDggRTUyg-117" value="Django" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="452.5" y="1990" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
