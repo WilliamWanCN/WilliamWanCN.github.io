@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-02-29T11:19:03.953Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="qckPAQv70wsFOlK-BsE5" version="23.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-29T11:30:53.160Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="Bsmehh5EjHY8lxMNJwWT" version="23.1.8" type="github">
   <diagram name="第 1 页" id="n-VCNaHbcNIM8rMQ8gX_">
     <mxGraphModel dx="1386" dy="759" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="tNorNKQu6xfEn8ALZk7z-24" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="159" y="405.25" width="455" height="78.5" as="geometry" />
+        </mxCell>
         <mxCell id="tNorNKQu6xfEn8ALZk7z-19" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="123" width="494" height="78.5" as="geometry" />
         </mxCell>
@@ -20,49 +23,61 @@
           <mxGeometry x="488" y="145" width="116" height="37" as="geometry" />
         </mxCell>
         <mxCell id="tNorNKQu6xfEn8ALZk7z-5" value="相关概念及理论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330.5" y="222" width="114.5" height="37" as="geometry" />
+          <mxGeometry x="330.5" y="243" width="114.5" height="37" as="geometry" />
         </mxCell>
         <mxCell id="tNorNKQu6xfEn8ALZk7z-6" value="K公司IT运维管理现状和问题研究" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="286.25" y="294" width="203" height="47" as="geometry" />
+          <mxGeometry x="286.25" y="319" width="203" height="47" as="geometry" />
         </mxCell>
         <mxCell id="tNorNKQu6xfEn8ALZk7z-7" value="K公司IT运维管理现状" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170.25" y="389" width="137.75" height="37" as="geometry" />
+          <mxGeometry x="184" y="424" width="137.75" height="38" as="geometry" />
         </mxCell>
         <mxCell id="tNorNKQu6xfEn8ALZk7z-8" value="K公司IT运维管理问题调研及总结" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="451" y="387" width="194" height="37" as="geometry" />
+          <mxGeometry x="396" y="424" width="194" height="39" as="geometry" />
         </mxCell>
         <mxCell id="tNorNKQu6xfEn8ALZk7z-9" value="K公司IT运维管理改进" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="311.13" y="456" width="151.75" height="47" as="geometry" />
+          <mxGeometry x="311.13" y="524" width="151.75" height="47" as="geometry" />
         </mxCell>
         <mxCell id="tNorNKQu6xfEn8ALZk7z-10" value="K公司IT运维管理改进目标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="163.25" y="559" width="151.75" height="47" as="geometry" />
+          <mxGeometry x="163.25" y="637" width="151.75" height="47" as="geometry" />
         </mxCell>
         <mxCell id="tNorNKQu6xfEn8ALZk7z-11" value="K公司IT运维管理改进思路" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="349" y="559" width="151.75" height="47" as="geometry" />
+          <mxGeometry x="349" y="637" width="151.75" height="47" as="geometry" />
         </mxCell>
         <mxCell id="tNorNKQu6xfEn8ALZk7z-12" value="K公司IT运维管理改进方案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="535" y="559" width="151.75" height="47" as="geometry" />
+          <mxGeometry x="535" y="637" width="151.75" height="47" as="geometry" />
         </mxCell>
         <mxCell id="tNorNKQu6xfEn8ALZk7z-13" value="K公司IT运维管理改进效果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="315" y="640" width="162" height="47" as="geometry" />
+          <mxGeometry x="315" y="718" width="162" height="47" as="geometry" />
         </mxCell>
         <mxCell id="tNorNKQu6xfEn8ALZk7z-14" value="K公司IT运维管理改进概述" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="158.13" y="717" width="162" height="47" as="geometry" />
+          <mxGeometry x="158.13" y="795" width="162" height="47" as="geometry" />
         </mxCell>
         <mxCell id="tNorNKQu6xfEn8ALZk7z-15" value="K公司IT运维管理改进效果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="717" width="162" height="47" as="geometry" />
+          <mxGeometry x="420" y="795" width="162" height="47" as="geometry" />
         </mxCell>
         <mxCell id="tNorNKQu6xfEn8ALZk7z-16" value="研究结论与展望" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="308" y="796" width="134" height="47" as="geometry" />
+          <mxGeometry x="308" y="874" width="134" height="47" as="geometry" />
         </mxCell>
         <mxCell id="tNorNKQu6xfEn8ALZk7z-17" value="研究结论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="172.13" y="875" width="82.87" height="47" as="geometry" />
+          <mxGeometry x="172.13" y="953" width="82.87" height="47" as="geometry" />
         </mxCell>
         <mxCell id="tNorNKQu6xfEn8ALZk7z-18" value="不足与展望" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="431" y="875" width="82.87" height="47" as="geometry" />
+          <mxGeometry x="431" y="953" width="82.87" height="47" as="geometry" />
         </mxCell>
         <mxCell id="tNorNKQu6xfEn8ALZk7z-20" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="366" y="86" width="39" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="tNorNKQu6xfEn8ALZk7z-21" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="366" y="206" width="39" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="tNorNKQu6xfEn8ALZk7z-22" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="366" y="282" width="39" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="tNorNKQu6xfEn8ALZk7z-23" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="367" y="368" width="39" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="tNorNKQu6xfEn8ALZk7z-26" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="367" y="487" width="39" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
