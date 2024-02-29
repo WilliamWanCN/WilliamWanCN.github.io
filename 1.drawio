@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2024-02-29T11:30:53.160Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="Bsmehh5EjHY8lxMNJwWT" version="23.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-29T11:46:09.364Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="MKUHVCPk1huyNAMLz8e1" version="23.1.8" type="github">
   <diagram name="第 1 页" id="n-VCNaHbcNIM8rMQ8gX_">
     <mxGraphModel dx="1386" dy="759" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="tNorNKQu6xfEn8ALZk7z-33" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="251" y="1016" width="276" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="tNorNKQu6xfEn8ALZk7z-30" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="163" y="813" width="465" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="tNorNKQu6xfEn8ALZk7z-28" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="101" y="610" width="573" height="77" as="geometry" />
+        </mxCell>
         <mxCell id="tNorNKQu6xfEn8ALZk7z-24" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="159" y="405.25" width="455" height="78.5" as="geometry" />
         </mxCell>
@@ -38,31 +47,31 @@
           <mxGeometry x="311.13" y="524" width="151.75" height="47" as="geometry" />
         </mxCell>
         <mxCell id="tNorNKQu6xfEn8ALZk7z-10" value="K公司IT运维管理改进目标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="163.25" y="637" width="151.75" height="47" as="geometry" />
+          <mxGeometry x="125.25" y="624" width="151.75" height="47" as="geometry" />
         </mxCell>
         <mxCell id="tNorNKQu6xfEn8ALZk7z-11" value="K公司IT运维管理改进思路" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="349" y="637" width="151.75" height="47" as="geometry" />
+          <mxGeometry x="311" y="624" width="151.75" height="47" as="geometry" />
         </mxCell>
         <mxCell id="tNorNKQu6xfEn8ALZk7z-12" value="K公司IT运维管理改进方案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="535" y="637" width="151.75" height="47" as="geometry" />
+          <mxGeometry x="497" y="624" width="151.75" height="47" as="geometry" />
         </mxCell>
         <mxCell id="tNorNKQu6xfEn8ALZk7z-13" value="K公司IT运维管理改进效果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="315" y="718" width="162" height="47" as="geometry" />
+          <mxGeometry x="309" y="727" width="162" height="47" as="geometry" />
         </mxCell>
         <mxCell id="tNorNKQu6xfEn8ALZk7z-14" value="K公司IT运维管理改进概述" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="158.13" y="795" width="162" height="47" as="geometry" />
+          <mxGeometry x="190" y="830" width="162" height="47" as="geometry" />
         </mxCell>
         <mxCell id="tNorNKQu6xfEn8ALZk7z-15" value="K公司IT运维管理改进效果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="795" width="162" height="47" as="geometry" />
+          <mxGeometry x="436" y="830" width="162" height="47" as="geometry" />
         </mxCell>
         <mxCell id="tNorNKQu6xfEn8ALZk7z-16" value="研究结论与展望" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="308" y="874" width="134" height="47" as="geometry" />
+          <mxGeometry x="329" y="930" width="128" height="47" as="geometry" />
         </mxCell>
         <mxCell id="tNorNKQu6xfEn8ALZk7z-17" value="研究结论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="172.13" y="953" width="82.87" height="47" as="geometry" />
+          <mxGeometry x="283" y="1030" width="82.87" height="47" as="geometry" />
         </mxCell>
         <mxCell id="tNorNKQu6xfEn8ALZk7z-18" value="不足与展望" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="431" y="953" width="82.87" height="47" as="geometry" />
+          <mxGeometry x="415" y="1031" width="82.87" height="47" as="geometry" />
         </mxCell>
         <mxCell id="tNorNKQu6xfEn8ALZk7z-20" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="366" y="86" width="39" height="34" as="geometry" />
@@ -78,6 +87,21 @@
         </mxCell>
         <mxCell id="tNorNKQu6xfEn8ALZk7z-26" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="367" y="487" width="39" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="tNorNKQu6xfEn8ALZk7z-27" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="369" y="573" width="39" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="tNorNKQu6xfEn8ALZk7z-29" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="690" width="39" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="tNorNKQu6xfEn8ALZk7z-31" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="371" y="776" width="39" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="tNorNKQu6xfEn8ALZk7z-32" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="371" y="893" width="39" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="tNorNKQu6xfEn8ALZk7z-34" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="371" y="979" width="39" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
